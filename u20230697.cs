@@ -13,6 +13,8 @@ namespace MyApp// Note: actual namespace depends on the project name.
             Console.WriteLine("\nIngrese su nota\n");
             double nota = Convert.ToDouble(Console.ReadLine());
 
+            // USO DE LAS CONDICIONALES IF, ELSE IF, ELSE
+
             if (nota >= 7.0 && nota <= 8.4) 
             {
                 Console.WriteLine("\nLa calificacion obtenida es "+nota+"  Tu nota es buena!");
