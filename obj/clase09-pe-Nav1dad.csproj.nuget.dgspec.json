@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Navidad\\Desktop\\TAREAS U 2023 SICLO II\\Programacion estructurada\\clase 9 condicionales\\clase09-pe-Nav1dad\\clase09-pe-Nav1dad.csproj": {}
+    "c:\\Users\\Navidad\\Desktop\\TAREAS U 2023 SICLO II\\Programacion estructurada\\clase 9 condicionales\\clase09-pe-Nav1dad\\clase09-pe-Nav1dad.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Navidad\\Desktop\\TAREAS U 2023 SICLO II\\Programacion estructurada\\clase 9 condicionales\\clase09-pe-Nav1dad\\clase09-pe-Nav1dad.csproj": {
+    "c:\\Users\\Navidad\\Desktop\\TAREAS U 2023 SICLO II\\Programacion estructurada\\clase 9 condicionales\\clase09-pe-Nav1dad\\clase09-pe-Nav1dad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Navidad\\Desktop\\TAREAS U 2023 SICLO II\\Programacion estructurada\\clase 9 condicionales\\clase09-pe-Nav1dad\\clase09-pe-Nav1dad.csproj",
+        "projectUniqueName": "c:\\Users\\Navidad\\Desktop\\TAREAS U 2023 SICLO II\\Programacion estructurada\\clase 9 condicionales\\clase09-pe-Nav1dad\\clase09-pe-Nav1dad.csproj",
         "projectName": "clase09-pe-Nav1dad",
-        "projectPath": "C:\\Users\\Navidad\\Desktop\\TAREAS U 2023 SICLO II\\Programacion estructurada\\clase 9 condicionales\\clase09-pe-Nav1dad\\clase09-pe-Nav1dad.csproj",
+        "projectPath": "c:\\Users\\Navidad\\Desktop\\TAREAS U 2023 SICLO II\\Programacion estructurada\\clase 9 condicionales\\clase09-pe-Nav1dad\\clase09-pe-Nav1dad.csproj",
         "packagesPath": "C:\\Users\\Navidad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Navidad\\Desktop\\TAREAS U 2023 SICLO II\\Programacion estructurada\\clase 9 condicionales\\clase09-pe-Nav1dad\\obj\\",
+        "outputPath": "c:\\Users\\Navidad\\Desktop\\TAREAS U 2023 SICLO II\\Programacion estructurada\\clase 9 condicionales\\clase09-pe-Nav1dad\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Navidad\\AppData\\Roaming\\NuGet\\NuGet.Config"
